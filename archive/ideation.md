@@ -246,6 +246,14 @@ Everything the player accumulates falls into three parallel collections:
 
 Harmony is *what* you play, instruments are *how* you play it, performers are *who* plays. A song is the intersection of all three.
 
+### NPCs as composers, and a fourth collection: languages
+
+"The game should never hide musical possibility. It should only **contextualize** it." NPCs are how that contextualizing happens. They're not gatekeepers — they're composers who hand you ideas, history, and styles. A Mozart who offers you a phrase or a bit of history; Alfred Schnittke sitting in a cave who teaches you polystylism. Meeting them never unlocks a locked feature; it shows you a framework you didn't know existed — the discovery feeling, not the progression feeling.
+
+That implies a fourth collectible alongside Harmony / Instruments / Performers: **harmonic languages** (styles, frameworks). Functional common-practice harmony, jazz, serialism, polystylism — each is a lens on the same underlying pitch material, a different **framework for crafting**. You gather languages from the composers you meet, and each one reframes what the same notes can mean.
+
+This has direct prior art: IV-V-I already ships composer-named **"style cards"** that change the rules of scoring and play (the Shostakovich card inverts the usual penalty logic). Same instinct — a composer as a rule-changing lens on harmony — one physical, one embodied as an NPC you meet in the world. (See `research/prior-art.md`.)
+
 ---
 
 ## Tool vs World: don't gate the tool

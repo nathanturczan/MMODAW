@@ -59,7 +59,7 @@ Journey, creature collecting, and farming (below) are mechanics that live inside
 - **Solo loop = collect + craft.** Chords and motifs are creatures to collect / ingredients to gather, crafted into songs.
 - **Multiplayer loop = rehearse + rearrange + perform.** Not composing from scratch — collaboratively realizing a composition you already made.
 
-Three parallel collections run through both loops: **Harmony** (what you play), **Instruments** (how you play it), **Performers** (who plays). A song is the intersection of all three.
+Parallel collections run through both loops: **Harmony** (what you play), **Instruments** (how you play it), **Performers** (who plays), and **Languages** (the style/framework you craft within — functional, jazz, serial, polystylist). A song is where they intersect.
 
 ## Client-Side Rendering (the sync answer)
 
@@ -95,6 +95,8 @@ Explore → Compose → Rehearse → Perform
 ```
 
 - **Instruments as collectibles** — a diversity of instrument interfaces (Guitar Hero → Rock Band, but way more). The twist: the instrument interfaces themselves are creatures to collect or recipes to craft. Progression and variety come from *how* you play, not just what you play.
+- **NPCs as composers** — characters contextualize possibility instead of gating it. A Mozart who offers ideas, history, and a style; Alfred Schnittke in a cave who teaches polystylism. Meeting them doesn't unlock a locked feature — it shows you a framework you didn't know existed. This is how the world *contextualizes* rather than *hides* music.
+- **Harmonic languages as collectibles** — styles are frameworks for crafting, gathered from the composers you meet (functional, jazz, serial, polystylist). A fourth collection alongside Harmony, Instruments, and Performers. (Prior art: IV-V-I's composer "style cards" already change the rules of play — see [research/prior-art.md](research/prior-art.md).)
 - **Pivot-as-portal** — a chord shared by two scales is a hidden passage between regions. Gates exploration, gives "aha" moments, needs zero theory.
 - **Collective harmonic gravity** — where players gather nudges the world's harmony. Ecological, not a vote.
 
