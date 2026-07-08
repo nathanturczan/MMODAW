@@ -148,5 +148,4 @@ The key differentiator: most "music games" either **hit pre-authored notes** (Ro
 ---
 
 ## Source notes
-- No dedicated Wikipedia page exists for Cool 3D World, Baken, or Tessler; birth years (~1988/1989) come from a gallery bio and are approximate.
 - No critic Metascore existed at time of writing; reception is drawn from Steam, Kotaku, and creator-critic YouTube coverage.
