@@ -14,6 +14,23 @@ The game is not about learning music theory. It's about making music through exp
 
 ---
 
+# The Ten Design Pillars
+
+The commitments that define the MMODAW. The rest of this doc elaborates them, and the research in [research/](research/) tests each against the academic literature and the competitive field.
+
+1. **Music-making is the verb.** The game is playing music, not matching notes; harmony is discovered through play, never taught as theory.
+2. **Tool vs. world separation.** The tool is fully unlocked; the world adds richness, never gates features.
+3. **Friction only in discovery.** Exploration can have friction; creation never does.
+4. **Artifact export is the north star.** Everything made leaves as real songs — MIDI, Ableton sessions, stems, performances.
+5. **Four parallel collections.** Harmony, Instruments, Performers, and Languages; collecting is inspiration, not permission.
+6. **NPCs as composers.** Characters contextualize possibility — offering styles, history, and ideas — instead of gating it.
+7. **Solo is already rehearsal.** The single-player loop is an ensemble with AI performers; multiplayer just swaps humans in.
+8. **Shared harmonic state, not shared audio.** Clients exchange musical intent and render locally, so it scales.
+9. **The wedge.** Walk in, jam, walk out with a keepable session — low-friction entry that always produces an artifact.
+10. **AR "improvising reality."** The long-term endpoint: harmony becomes spatial material you manipulate directly.
+
+---
+
 # Tool vs World (the core separation)
 
 A game needs progression. A creative tool needs immediate access. These are different goals — don't merge them into one interface.
