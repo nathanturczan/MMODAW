@@ -24,5 +24,5 @@ A game needs progression; a creative tool needs immediate access. Rather than me
 
 - [ideation.md](ideation.md) — the vision, the MMO DAW umbrella, and mechanics worth prototyping
 - [gameplay-loop.md](gameplay-loop.md) — the solo loop today and how the MMODAW extends it
-- [research/](research/) — prior art and related tools (e.g. the IV-V-I harmony card game)
+- [research/](research/) — prior art and related tools (the IV-V-I harmony card game, Ultimate Drummer)
 - [archive/](archive/) — verbose design essays behind the concise docs
