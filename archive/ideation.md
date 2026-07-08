@@ -281,6 +281,53 @@ This is also technically smarter. Realtime synchronized audio is brutally diffic
 
 ---
 
+## Friction is only allowed in discovery
+
+A friend crystallized the whole thing into what's almost a constitution for the project:
+
+> Only exploration should have friction. Creation should not.
+
+It maps to the real world: you don't have to earn the right to play piano, you have to discover music.
+
+### Where friction is allowed
+
+- Traveling through the world
+- Exploring new regions
+- Meeting NPCs
+- Discovering stories
+- Finding new motifs
+- Finding new instrument interfaces
+- Finding collaborators
+
+### Where friction is banned
+
+- Playing music
+- Recording
+- Rearranging
+- Rehearsing
+- Performing
+- Exporting
+- Using any instrument you already know about
+
+### Scale Navigator is fast travel
+
+Even the allowed friction is optional. Don't want to walk through the forest? Open Scale Navigator and jump directly to any harmonic state — just like opening a map in an RPG. New players wander; experienced players teleport.
+
+This makes Scale Navigator feel like an in-universe artifact. Imagine players *discovering* the Scale Navigator: it becomes the equivalent of a world map, a teleport spell, an atlas.
+
+### Progression vs discovery
+
+The game should never hide musical possibility. It should only **contextualize** it. If you know exactly what harmony you want, you should be able to get there instantly. If you don't, the world helps you discover it.
+
+That's the difference between progression and discovery:
+
+- **Progression** says "you aren't allowed to use this yet." Feels restrictive.
+- **Discovery** says "you didn't know this existed." Feels magical.
+
+Optimize the entire experience around the second one.
+
+---
+
 ## The endpoint: AR and "improvising reality"
 
 The ideal surface for Scale Navigator is not a screen, but **AR** — hand gestures, like magic, Dr. Strange. What Jaron Lanier calls **"improvising reality."**

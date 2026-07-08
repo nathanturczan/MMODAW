@@ -29,6 +29,17 @@ Game World
 
 The world continuously feeds the tool; the tool never requires the world. Spend five minutes, stumble on a progression, hit Export, and leave — or spend all evening rehearsing with friends.
 
+## Friction is only allowed in discovery
+
+The single design rule, almost a constitution: **only exploration should have friction; creation never does.** You don't earn the right to play piano — you discover music.
+
+- **Friction allowed** — traveling the world, exploring regions, meeting NPCs, discovering stories, finding motifs, finding instruments, finding collaborators.
+- **No friction** — playing, recording, rearranging, rehearsing, performing, exporting, using any instrument you already know.
+
+Even the allowed friction is optional: **Scale Navigator is fast travel.** Don't want to walk through the forest? Open the map and jump straight to any harmonic state, like a teleport in an RPG. New players wander; experienced players teleport — which makes Scale Navigator an in-universe artifact you discover: a world map, an atlas, a teleport spell.
+
+This is the difference between **progression** and **discovery**. Progression says "you aren't allowed to use this yet" (restrictive). Discovery says "you didn't know this existed" (magical). Optimize entirely around the second. The game never hides musical possibility — it only contextualizes it: know the harmony you want and get there instantly; don't, and the world helps you find it.
+
 ---
 
 # MMO DAW (the umbrella)
