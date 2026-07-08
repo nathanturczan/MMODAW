@@ -26,6 +26,15 @@ Artifacts leave the game as songs, MIDI, Ableton sessions, stems, and performanc
 
 Journey, creature collecting, and farming (below) are mechanics that live inside this world, not competing directions.
 
+## Solo vs Multiplayer
+
+- **Solo loop = collect + craft.** Chords and motifs are creatures to collect / ingredients to gather, crafted into songs.
+- **Multiplayer loop = rehearse + rearrange + perform.** You bring those songs to other people and play them together.
+
+## Client-Side Rendering (the sync answer)
+
+Collaborative DAWs sound like a synchronization nightmare. The trick: **render the music client-side.** Each client follows the shared harmonic state and produces the audio locally, so sync hiccups are absorbed into the rendering — the player just experiences the music. This is *not* jamming over Zoom. (Ensemble Jammer already works this way.)
+
 ---
 
 # Mechanics Inside the World
@@ -55,6 +64,7 @@ Journey, creature collecting, and farming (below) are mechanics that live inside
 Explore → Compose → Rehearse → Perform
 ```
 
+- **Instruments as collectibles** — a diversity of instrument interfaces (Guitar Hero → Rock Band, but way more). The twist: the instrument interfaces themselves are creatures to collect or recipes to craft. Progression and variety come from *how* you play, not just what you play.
 - **Pivot-as-portal** — a chord shared by two scales is a hidden passage between regions. Gates exploration, gives "aha" moments, needs zero theory.
 - **Collective harmonic gravity** — where players gather nudges the world's harmony. Ecological, not a vote.
 
