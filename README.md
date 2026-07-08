@@ -20,6 +20,21 @@ One product, three spaces:
 
 A game needs progression; a creative tool needs immediate access. Rather than merge them, keep them separate: the **tool** is fully unlocked (explore, capture, export, rehearse, perform, immediately), and the **world** adds progression by getting richer, never by gating features. The world feeds the tool; the tool never requires the world.
 
+## The ten pillars
+
+The commitments that define the MMODAW and the lens the research uses. Full definitions in [ideation.md](ideation.md).
+
+1. **Music-making is the verb** — harmony discovered through play, not taught.
+2. **Tool vs. world separation** — tool fully unlocked; world adds richness, never gates. Collecting is inspiration, not permission.
+3. **Friction only in discovery, never in creation** — exploring can be hard; playing, recording, and exporting never are.
+4. **Artifact-export loop (north star)** — every session leaves a MIDI file, Ableton session, stems, or a bandmate. The game feeds DAWs, never replaces them.
+5. **Four collections** — Harmony, Instruments, Performers, and Languages.
+6. **NPCs as composers** — characters embody a harmonic language and change how you craft.
+7. **Solo = already rehearsal** — assign parts to AI musicians; multiplayer just swaps humans into the same chairs.
+8. **Shared harmonic state, not shared audio** — clients exchange musical intent and render locally. The strongest whitespace: zero prior art.
+9. **The wedge (MVP)** — walk in, jam with strangers, walk out with an Ableton session.
+10. **Endpoint: AR** — "improvising reality"; manipulating harmonic objects like clay in space.
+
 ## Docs
 
 - [ideation.md](ideation.md) — the vision, the MMO DAW umbrella, and mechanics worth prototyping

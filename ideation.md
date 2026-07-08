@@ -3,7 +3,7 @@
 Scale Navigator's core loop already resembles a game.
 
 ```text
-Explore → Discover → Capture → Craft → Perform → Share
+Explore → Capture → Craft → Rehearse → Perform → Share
 ```
 
 The goal is to make harmony something players learn through exploration rather than theory.
@@ -16,18 +16,18 @@ The game is not about learning music theory. It's about making music through exp
 
 # The Ten Design Pillars
 
-The commitments that define the MMODAW. The rest of this doc elaborates them, and the research in [research/](research/) tests each against the academic literature and the competitive field.
+The commitments that define the MMODAW, and the analysis lens the [research/](research/) uses. The rest of this doc elaborates them; the research tests each against the academic literature and the competitive field.
 
-1. **Music-making is the verb.** The game is playing music, not matching notes; harmony is discovered through play, never taught as theory.
-2. **Tool vs. world separation.** The tool is fully unlocked; the world adds richness, never gates features.
-3. **Friction only in discovery.** Exploration can have friction; creation never does.
-4. **Artifact export is the north star.** Everything made leaves as real songs — MIDI, Ableton sessions, stems, performances.
-5. **Four parallel collections.** Harmony, Instruments, Performers, and Languages; collecting is inspiration, not permission.
-6. **NPCs as composers.** Characters contextualize possibility — offering styles, history, and ideas — instead of gating it.
-7. **Solo is already rehearsal.** The single-player loop is an ensemble with AI performers; multiplayer just swaps humans in.
-8. **Shared harmonic state, not shared audio.** Clients exchange musical intent and render locally, so it scales.
-9. **The wedge.** Walk in, jam, walk out with a keepable session — low-friction entry that always produces an artifact.
-10. **AR "improvising reality."** The long-term endpoint: harmony becomes spatial material you manipulate directly.
+1. **Music-making is the verb, not note-matching.** Harmony is discovered through play, not taught — remove the music-theory framing entirely.
+2. **Tool vs. world separation.** The creative tool is fully unlocked (no gating); the world adds progression only by getting richer — more places, characters, instruments — never by locking features. Collecting is inspiration, not permission.
+3. **Friction only in discovery, never in creation.** Exploring, traveling, and meeting NPCs can have friction; playing, recording, rehearsing, performing, and exporting never do.
+4. **The artifact-export loop (the north star).** Every session leaves the player something usable in real life — a MIDI file, an Ableton session, stems, a jam recording, a bandmate. The song isn't the goal; the song is the artifact left behind by play. The game feeds existing DAWs, never replaces them.
+5. **Four collections.** Harmony (scales, chords, motifs, progressions), Instruments (interfaces and ways to play), Performers (musicians — AI or human), and Languages (styles/frameworks — common-practice, jazz, serialism, polystylism — gathered from NPC composers).
+6. **NPCs as composers.** Characters embody a harmonic language and change how you craft (prior art: IV-V-I's composer-named "style cards").
+7. **Solo = already rehearsal.** In single-player you assign parts to recruited AI musicians; multiplayer just swaps humans into the same chairs — no mode switch.
+8. **Shared harmonic state, not shared audio.** Clients exchange musical intent (`Scale: C Lydian · Chord: IVmaj7 · Tempo: 92`) and render locally — an MMO architecture, far cheaper than synced audio, and the strongest whitespace with zero prior art.
+9. **The wedge (the MVP).** A shared rehearsal/performance room with instant artifact export: walk in, jam with strangers, walk out with an Ableton session.
+10. **The endpoint: AR — "improvising reality."** Manipulating harmonic objects like clay in space (Jaron Lanier).
 
 ---
 
