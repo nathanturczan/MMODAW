@@ -143,6 +143,6 @@ The loop:
 
 > Walk in, jam with strangers, walk out with a session you finish in your DAW.
 
-That single loop is the entire vision in miniature — a feature, not a five-year world-build. If that moment lands, the MMO, the persistent world, and eventually AR are all just *more room around a thing that already feels magical.* If it doesn't land, no amount of weather-changing-with-scales will save it.
+That single loop is the entire vision in miniature — a feature, not a five-year world-build. If that moment lands, the MMO, the persistent world, and eventually AR are all just *more room around a thing that already works.* If it doesn't land, no amount of weather-changing-with-scales will save it.
 
 **The north star that governs it:** every hour someone spends should leave them with something they can take into the rest of their musical life. Fake grind fails this test. A jam recording that exports to Ableton passes it. Keep that as the constitution and most "which feature" questions answer themselves.

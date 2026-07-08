@@ -338,7 +338,7 @@ Optimize the entire experience around the second one.
 
 ## The endpoint: AR and "improvising reality"
 
-The ideal surface for Scale Navigator is not a screen, but **AR** — hand gestures, like magic, Dr. Strange. What Jaron Lanier calls **"improvising reality."**
+The ideal surface for Scale Navigator is not a screen, but **AR** — reshaping harmonic space with your hands. What Jaron Lanier calls **"improvising reality."**
 
 This is bigger than "Scale Navigator as a game." It's a new **computing paradigm**. The computer stops being something you look at and becomes something you manipulate like clay. Scale Navigator already has those properties. Today the interaction is "click polygon." What it *wants* to be is "reach toward harmonic space and reshape it."
 
@@ -380,13 +380,13 @@ The Dashboard becomes not an app but an **occupation**: some players become cond
 
 What if nobody owns the harmony? Hundreds of people collectively steering the world's harmonic weather — not voting, something more organic. Twenty people exploring one neighborhood gradually shifts the harmonic center of gravity. The world slowly modulates because of where people gather. Almost **ecological**.
 
-### AR feels inevitable — because harmony is already spatial
+### AR fits because harmony is already spatial
 
-Scale Navigator today isn't menus; it's things you want to grab. Stand in your living room: the Navigator floats in front of you, neighboring scales orbit around it. Grab one, drag it closer, rotate it, the chord graph unfolds beneath it. Pinch a chord, drop it into your sketchbook floating beside you. You're no longer operating software — you're **manipulating harmonic objects**. Very Dr. Strange.
+Scale Navigator today isn't menus; it's things you want to grab. Stand in your living room: the Navigator floats in front of you, neighboring scales orbit around it. Grab one, drag it closer, rotate it, the chord graph unfolds beneath it. Pinch a chord, drop it into your sketchbook floating beside you. You're no longer operating software — you're **manipulating harmonic objects**.
 
 **Crafting in AR:** not "Add progression." You physically assemble it — take one harmonic object, connect it to another, stretch the transition, twist the voice-leading, pull a pivot chord out like opening a hidden hinge. The progression becomes a **sculpture**.
 
-**Performance in AR:** you open a portal. Friends walk into it. Everyone's instruments immediately understand the harmonic field. You don't think about networking — you think about entering the same magical place.
+**Performance in AR:** you open a portal. Friends walk into it. Everyone's instruments immediately understand the harmonic field. You don't think about networking — you think about entering the same shared space.
 
 ---
 
