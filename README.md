@@ -1,0 +1,23 @@
+# MMODAW
+
+A persistent online world where making music is the game. Explore harmony as a place, capture what you like, craft it into songs, then rehearse and perform them with other people. The songs you make have value outside the game: they leave as MIDI, Ableton sessions, stems, and performances you can rehearse, release, or keep producing in a DAW.
+
+Built on existing Scale Navigator tech: the 57-scale network, Ensemble Jammer multiplayer, real-time harmonic retuning, and DAW export.
+
+## The loop
+
+```text
+Explore → Capture → Craft → Rehearse → Perform → Share
+```
+
+One product, three spaces:
+
+- **Workbench** — craft songs together in a multiplayer DAW
+- **Rehearsal (VR)** — jam with friends like Guitar Hero; orchestrate and delegate who plays what
+- **Venue (VR/AR)** — perform live
+
+## Docs
+
+- [ideation.md](ideation.md) — the vision, the MMO DAW umbrella, and mechanics worth prototyping
+- [gameplay-loop.md](gameplay-loop.md) — the solo loop today and how the MMODAW extends it
+- [archive/](archive/) — verbose design essays behind the concise docs
