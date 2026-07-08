@@ -55,3 +55,46 @@ Ensemble Jammer is the multiplayer performance client. The Dashboard explores an
 ---
 
 Everything in Explore, Capture, and Share can be experienced solo today. The game extends this loop rather than replacing it.
+
+---
+
+## The MMODAW Loop
+
+The game wraps the solo loop in three shared spaces. Explore/Capture/Share still happen — now they happen with other people, across a workbench, a rehearsal room, and a venue.
+
+```text
+WORKBENCH
+• Explore harmony and capture what you like
+• Arrange it into a progression / song
+• Craft together in a multiplayer DAW
+
+↓
+
+REHEARSAL (VR)
+• Bring friends into the song
+• Orchestrate: assign parts, swap instruments
+• Practice difficult transitions
+• Decide who carries melody, who improvises
+• Play it through together, Guitar Hero style
+
+↓
+
+VENUE (VR / AR)
+• Perform live for an audience of avatars
+• The performer drives harmony; the band improvises around it
+
+↓
+
+ARTIFACT
+• The session leaves the game: song, MIDI, Ableton project, stems, recording
+
+↓
+
+Repeat
+```
+
+- **Workbench** — where the existing Explore → Capture → Share loop becomes collaborative songwriting.
+- **Rehearsal** — the new phase most music games skip: a collaborative, almost management-style step where a solo arrangement becomes an ensemble.
+- **Venue** — the payoff: a live performance others can attend, watch, and walk away with a copy of.
+
+Every trip through the loop is meant to leave players with something they can take into the rest of their musical life.

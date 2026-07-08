@@ -19,7 +19,7 @@ The game is not about learning music theory. It's about making music through exp
 A persistent online world where the other directions become mechanics. One product, three spaces:
 
 - **Workbench** — craft songs together
-- **Rehearsal (VR)** — jam with friends, orchestrate and delegate who plays what
+- **Rehearsal (VR)** — jam with friends like Guitar Hero; orchestrate and delegate who plays what
 - **Venue (VR/AR)** — perform live
 
 Artifacts leave the game as songs, MIDI, Ableton sessions, stems, and performances.
@@ -49,7 +49,7 @@ Journey, creature collecting, and farming (below) are mechanics that live inside
 
 # Key Mechanics Worth Prototyping
 
-- **Rehearsal** — the most novel mechanic. Most music games jump straight from composing to performing; this inserts an entire collaborative phase between them: assign parts, try arrangements, swap instruments, practice difficult transitions, decide who carries melody, decide who improvises. Almost a management game. Turns a solo arrangement into an ensemble.
+- **Rehearsal** — the most novel mechanic. Most music games jump straight from composing to performing; this inserts an entire collaborative phase between them, playable like Guitar Hero: assign parts, try arrangements, swap instruments, practice difficult transitions, decide who carries melody, decide who improvises. Almost a management game. Turns a solo arrangement into an ensemble.
 
 ```text
 Explore → Compose → Rehearse → Perform
