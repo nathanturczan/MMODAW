@@ -6,7 +6,7 @@ Existing games and tools that overlap with the MMODAW design, and what to learn 
 
 ## IV-V-I: The Harmony Card Game
 
-A physical card game where players compete to build the best harmonic progressions using good voice leading and cadences. The closest philosophical predecessor to Scale Navigator found so far: functional harmony (T/S/D) turned into an accessible, rules-driven system where non-theorists can succeed.
+A physical card game where players compete to build the best harmonic progressions using good voice leading and cadences. A philosophical predecessor to Scale Navigator: functional harmony (T/S/D) turned into an accessible, rules-driven system where non-theorists can succeed.
 
 - **Format:** 2–4 players, 30–60 min, ages 12+, $10 (currently Sold Out)
 - **Source:** https://musicteachertools.myshopify.com/products/iv-v-i
@@ -44,7 +44,7 @@ Enthusiastic but decidedly niche — a cult favorite among music educators and t
 - **2020 r/musictheory:** when a user proposed building "a game to teach functional harmony," the top reaction — "This is the nerdiest shit I've ever seen. Please, keep up the good work" (144 upvotes) — captured the vibe; dozens replied "I'd buy that game." Hernandez stepped in to note his game already existed.
 - **Substantive critiques (design-oriented):** one user argued it "would work better as software that can also play the chords," since hearing harmony matters for learning; another (a game designer) warned that theory games often "focus too much on the theory and don't try to make a fun game" and stressed the core mechanics must stand on their own. Many compared it to Uno and floated Uno-style twists (deceptive cadences reversing turn order, pivot-chord effects).
 
-No BoardGameGeek listing and no formal press reviews — footprint is almost entirely word-of-mouth in music-education circles.
+The footprint is almost entirely word-of-mouth in music-education circles.
 
 ### What to take from it
 
@@ -52,4 +52,3 @@ No BoardGameGeek listing and no formal press reviews — footprint is almost ent
 - The **"play window"** is exactly our harmonic-transition constraint — the same idea Ensemble Jammer uses to keep every instrument inside the shared harmonic state. Proof that a constraint system on transitions reads as a *game* to non-theorists.
 - **Symbol-based, training-free access** — and novices winning — validates the "no music theory required" premise.
 - **Composer Style cards → NPC composers.** IV-V-I already names cards after composers that change the rules of play. That's our NPCs-as-composers mechanic in card form: characters who embody a harmonic language and change how you craft.
-- **Rafael Hernandez may be worth a direct conversation** — the closest predecessor to this work, an academic who explicitly bridges musicians and programmers to make interactive experiences.

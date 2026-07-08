@@ -13,7 +13,7 @@
 
 *Ultimate Drummer* is the debut video game from **Cool 3D World** — the Brooklyn animation/music duo **Jon Baken and Brian Tessler**, famous since the Vine era for surreal, grotesque 3D shorts (and the "ham documentary" in *Smiling Friends*). It's a short (1–2 hour), self-funded, Unreal Engine **action-platformer "DRPG"** in which you play an exiled drummer restoring harmony to a fractured world of music gods. Its signature hook is a **fully playable step-sequencer drum kit** that runs continuously as you glide, platform, and fight through soulslike/*Shadow of the Colossus*/*Zelda*/*Journey*-inspired environments. Critics and streamers loved it (Steam "Very Positive," ~87–99% positive across snapshots; Kotaku, Iron Pineapple, Noclip praise), but reach stayed tiny (all-time peak ~38 concurrent players) — a textbook "critically adored, commercially niche" indie. The creators themselves say it's "**much more of an exploration 3D platformer than a rhythm game.**"
 
-Notably relevant to your own work: this is one of the very few games where **music-making is the mechanic** rather than note-matching — placing it in a rare lineage (Fract OSC, Sound Shapes, Electroplankton) that overlaps conceptually with the Scale Navigator "explore → capture → share" thesis, but wrapped in combat and platforming none of those did.
+It is one of the very few games where **music-making is the mechanic** rather than note-matching, placing it in a rare lineage (Fract OSC, Sound Shapes, Electroplankton) wrapped in combat and platforming none of those had.
 
 ---
 
@@ -99,7 +99,7 @@ Distribution/marketing was DIY through their own channels plus one showcase slot
 **Press coverage:**
 - **Kotaku** (Zack Kotzer), "Ultimate Drummer Is A Bold Musical Soulslike Twist On Rock Band" — the marquee mainstream piece; verdict: "Is it the most tightly composed soulslike out there? Who cares… filled with non-stop surprises, a twist for every beat" ([Kotaku](https://kotaku.com/cool-3d-world-unleash-their-beefy-musical-soulslike-ultimate-drummer-2000690458)).
 - **Steam pull-quotes** from Kotaku, **Iron Pineapple** ("consistently funny, festive, joyous, and also really unique. I've never seen a game like this"), and **Noclip** ([Steam, IT localization](https://store.steampowered.com/app/3646020/Ultimate_Drummer/?l=italian)).
-- **Gap:** no dedicated coverage found from PC Gamer, RPS, Polygon, or IGN. Coverage stayed within the indie/YouTube-critic ecosystem — consistent with the devs being "deeply disinterested in self-promotion."
+- Coverage stayed within the indie/YouTube-critic ecosystem, with no dedicated pieces from PC Gamer, RPS, Polygon, or IGN — consistent with the devs being "deeply disinterested in self-promotion."
 
 **The "is this even real?" hype problem** ([Noclip](https://www.youtube.com/watch?v=8h3GW4Ze7pM)): even Cool 3D World fans assumed the game announcement was a joke/bit, and trailers on their own channel drew as few as ~30 views (vs. hundreds of thousands–millions for their shorts). The playable demo is credited with convincing people it was real.
 
@@ -138,17 +138,15 @@ The key differentiator: most "music games" either **hit pre-authored notes** (Ro
 
 ---
 
-## 8. Relevance to your Scale Navigator / MMODAW thinking
+## 8. Relevance to the MMODAW design
 
-A few threads worth flagging given your own project:
-- **Music-making as the verb, not note-matching** is exactly the rare niche you're aiming at. *Ultimate Drummer* validates appetite for it but deliberately buries the music-theory framing under "exploration platformer" — the same "remove the theory, make discovery the game" instinct in your ideation notes.
-- **Their "hard to sell / people think it's a joke" problem** is a direct cautionary tale for a harmony-exploration game: an unclassifiable hybrid is a marketing liability even with a million-follower audience. Their fix — a **playable demo** — is what finally made it legible.
-- **Their sequencer + "up to 6 musicians" sandbox** is a small-scale cousin of your Ensemble Jammer "constrain everyone to the shared state" idea, but single-player and beat-focused rather than harmony-driven — arguably leaving your harmonic-network angle unclaimed.
-- **No artifact export** — unlike your "walk out with an Ableton session" north star, *Ultimate Drummer* keeps the music inside the game. That export-to-real-life loop remains a genuine differentiator you could own.
+- **Music-making as the verb, not note-matching** is the same rare niche the MMODAW targets. *Ultimate Drummer* buries the music-theory framing under "exploration platformer" — the same "remove the theory, make discovery the game" instinct.
+- **The "hard to sell / people think it's a joke" problem** is a cautionary case for a harmony-exploration game: an unclassifiable hybrid is a marketing liability even with a million-follower audience. The fix that made it legible was a **playable demo**.
+- **The sequencer + "up to 6 musicians" sandbox** is a small-scale cousin of Ensemble Jammer's "constrain everyone to the shared state," but single-player and beat-focused rather than harmony-driven.
+- **No artifact export** — *Ultimate Drummer* keeps the music inside the game, where the MMODAW's loop ends in an Ableton session, MIDI, and stems that leave with the player.
 
 ---
 
-## Gaps / caveats
-- **"Thicket"** (from your Instagram chat) could not be tied to Jon Baken / Cool 3D World in any source — only an unrelated metal band. His verified music history is popcorn10, George & Jonathan (G+J), Bravest Warriors, and Steven Universe. Worth asking him directly.
-- No dedicated Wikipedia page exists for Cool 3D World, Baken, or Tessler; birth years (~1988/1989) come from a gallery bio and should be treated as approximate.
-- No critic Metascore existed at time of research; reception is drawn from Steam, Kotaku, and creator-critic YouTube coverage.
+## Source notes
+- No dedicated Wikipedia page exists for Cool 3D World, Baken, or Tessler; birth years (~1988/1989) come from a gallery bio and are approximate.
+- No critic Metascore existed at time of writing; reception is drawn from Steam, Kotaku, and creator-critic YouTube coverage.

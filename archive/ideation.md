@@ -107,7 +107,7 @@ LA Laptop Orchestra already feels like a multiplayer game. Imagine 50 players, n
 
 ---
 
-## Where the gold is
+## The discovery angle
 
 The thing Scale Navigator has that no other music software has is **discovery**.
 
@@ -134,7 +134,7 @@ ACTIVATE    — those paths change the world
 
 Music never disappears. It's just no longer the explicit objective. Harmony becomes the underlying **physics of the world** rather than the subject being taught.
 
-### The pivot chord is the best mechanic
+### Pivot chord as mechanic
 
 In the app it's a modulation aid. In a game it's essentially a **hidden doorway**: discovering that one chord belongs to multiple scales is like finding a secret passage that connects two otherwise separate regions. That mechanic gates exploration and gives satisfying "aha" moments without requiring any music theory vocabulary.
 
