@@ -29,7 +29,9 @@ Journey, creature collecting, and farming (below) are mechanics that live inside
 ## Solo vs Multiplayer
 
 - **Solo loop = collect + craft.** Chords and motifs are creatures to collect / ingredients to gather, crafted into songs.
-- **Multiplayer loop = rehearse + rearrange + perform.** You bring those songs to other people and play them together.
+- **Multiplayer loop = rehearse + rearrange + perform.** Not composing from scratch — collaboratively realizing a composition you already made.
+
+Three parallel collections run through both loops: **Harmony** (what you play), **Instruments** (how you play it), **Performers** (who plays). A song is the intersection of all three.
 
 ## Client-Side Rendering (the sync answer)
 
@@ -45,9 +47,9 @@ Collaborative DAWs sound like a synchronization nightmare. The trick: **render t
 - sketchpad becomes travel journal
 
 ## Creature Collector ⭐⭐⭐⭐☆
-- collect harmonic motifs
-- combine them
-- evolve them
+- the creatures aren't motifs — they're musicians, each with preferences (loves drones, only plays bass, refuses diminished)
+- recruit them into your ensemble
+- single-player is already rehearsal; in multiplayer, humans just replace the AI performers
 
 ## Cozy Farming ⭐⭐⭐⭐☆
 - cultivate harmonic seeds

@@ -211,6 +211,43 @@ Exporting to Ableton shouldn't feel like `File → Export MIDI`. It should feel 
 
 ---
 
+## Instruments as progression (the breakthrough)
+
+The thing you actually collect isn't weapons or spells — it's **ways of making music**. Instruments aren't UI, they're **progression**. Every new interface you unlock is a new way to play, so growth comes from *how* you play, not just what harmony you have access to.
+
+Concrete examples of instruments-as-items:
+
+- **Touch Harp** — an early unlock; strum harmonic fields with a fingertip.
+- **Tanpura Drone** — a companion that holds a drone under whatever you play.
+- **Strudel sequencer** — found in a cave; live-coded patterns as a discoverable artifact.
+- **Modular step sequencer** — crafted from parts you gather.
+- **Motion theremin** — a rare item; play by moving through space.
+
+This makes exploration much richer. You're no longer only discovering harmony — you're discovering **harmony, instruments, motifs, and sounds**. Four kinds of loot instead of one.
+
+### Solo vs multiplayer, refined
+
+- **Solo loop** = collect + craft. Chords and motifs are creatures to collect / ingredients to gather; instruments are the tools you unlock; you craft songs out of all of it.
+- **Multiplayer loop** = rehearse + rearrange + perform. And crucially: multiplayer **isn't composing from scratch — it's collaboratively realizing a composition.** You bring a piece you already made and the group brings it to life.
+
+### Creatures aren't motifs — they're musicians
+
+The stronger version of the creature-collector idea: the creatures aren't harmonic motifs, they're **musicians**. Little musical beings with preferences and personalities — one loves drones, one only plays bass, one only wants to be in lydian, one refuses diminished chords. You **recruit** them into your ensemble.
+
+This is what makes the solo→multiplayer bridge so smooth: **single-player is already rehearsal.** You're already assigning parts and coaxing performances out of your recruited musicians. When friends join, humans simply **replace the AI performers** — same room, same mechanic, real people in the chairs. No mode switch, no separate multiplayer game.
+
+### The three collections
+
+Everything the player accumulates falls into three parallel collections:
+
+1. **Harmony** — scales, chords, motifs, progressions.
+2. **Instruments** — interfaces, ways to perform.
+3. **Performers** — musicians (AI or human) who play those instruments through that harmony.
+
+Harmony is *what* you play, instruments are *how* you play it, performers are *who* plays. A song is the intersection of all three.
+
+---
+
 ## The endpoint: AR and "improvising reality"
 
 The ideal surface for Scale Navigator is not a screen, but **AR** — hand gestures, like magic, Dr. Strange. What Jaron Lanier calls **"improvising reality."**
