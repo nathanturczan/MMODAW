@@ -7,7 +7,7 @@ Built on existing Scale Navigator tech: the 57-scale network, Ensemble Jammer mu
 ## The loop
 
 ```text
-Explore → Capture → Craft → Rehearse → Perform → Share
+Explore → Capture → Craft → Share → Rehearse → Perform → Export
 ```
 
 One product, three spaces:

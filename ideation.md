@@ -3,8 +3,10 @@
 Scale Navigator's core loop already resembles a game.
 
 ```text
-Explore → Capture → Craft → Rehearse → Perform → Share
+Explore → Capture → Craft → Share → Rehearse → Perform → Export
 ```
+
+Share is the social bridge: what you craft solo becomes a score you hand to other players, who arrange, rehearse, and perform it with you. Export is the north star: the artifact leaves as MIDI, an Ableton session, stems, or a recording.
 
 The goal is to make harmony something players learn through exploration rather than theory.
 
@@ -74,9 +76,19 @@ Journey, creature collecting, and farming (below) are mechanics that live inside
 ## Solo vs Multiplayer
 
 - **Solo loop = collect + craft.** Chords and motifs are creatures to collect / ingredients to gather, crafted into songs.
-- **Multiplayer loop = rehearse + rearrange + perform.** Not composing from scratch — collaboratively realizing a composition you already made.
+- **Multiplayer loop = rehearse + rearrange + perform.** Collaboratively realizing a composition you already made, rather than composing from scratch.
 
-Parallel collections run through both loops: **Harmony** (what you play), **Instruments** (how you play it), **Performers** (who plays), and **Languages** (the style/framework you craft within — functional, jazz, serial, polystylist). A song is where they intersect.
+**Scores are the bridge.** What you craft solo becomes a **score**: a shareable artifact carrying the harmony, the structure, and optional arrangements / orchestrations. A score works at two resolutions at once — a **live screen score** that scrolls the moment-to-moment harmony players read as they play, and an **architectural / formal diagram** of the whole piece: its sections, who does what when, the plan for the room. Sharing a score is what pulls other players in, and it is the handoff from the solo loop into the multiplayer loop: they take the score, arrange it, rehearse it, and perform it together.
+
+**Rehearse and Perform stay open.** A score is a starting point rather than a cage, and a group can hold it as tightly or as loosely as they like: play the chart note-for-note, or treat it as a launch pad and improvise the whole set. Exploration, rewriting, and re-orchestration continue through rehearsal and performance, so players can leave the written material, improvise, and weave back in, the way King Gizzard & the Lizard Wizard or Phish thread jams through composed songs. Prewritten structure and live exploration coexist, and the world's harmony-guided constraints keep the improvisation coherent even when players wander off the page. Perform is naturally a spectator event: a set is a stream, so Twitch and similar platforms are a first-class output — an audience watches a room of players realize a score live.
+
+**Lineage: the Scratch Orchestra.** Score → rehearse → perform looks back to Cornelius Cardew and the Scratch Orchestra: a score is a prompt for a room rather than fixed notation, realized collectively and differently every time. Cardew's *Scratch Music* (152 improvisation rites, 1972) and *The Great Learning* treat the written material as a shared constraint that structures listening and interaction, which is exactly what a harmony-guided score does here. This is the direct ancestor of the MMODAW's collaborative Rehearse / Perform phases, and LALORK is where it already runs in a physical room (see [research/lalork.md](research/lalork.md)).
+
+Parallel collections run through both loops: **Harmony** (what you play), **Instruments** (how you play it), **Performers** (who plays), and **Languages** (the style/framework you craft within — functional, jazz, serial, polystylist). A song is where they intersect. The Languages and the composer NPCs who teach them already have a working engine in `harmony-tools` (see [research/harmonic-languages.md](research/harmonic-languages.md)).
+
+## Social layer
+
+The out-of-band coordination a band actually needs — voice, chat, planning — belongs to the world too, and Discord is the obvious first home rather than something to rebuild. A room's voice and text sit alongside its harmonic state; scores, forms, and plans post into a channel the way a setlist or chart gets passed around. Both score resolutions travel here: the live screen score for playing from, and the architectural / formal diagram for deciding what happens when and who carries which section. This is also where a session's exported artifact lands — the MIDI, the Ableton session, the stream link — so the group's chatter, its plans, and its output share one place.
 
 ## Client-Side Rendering (the sync answer)
 
