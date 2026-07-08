@@ -16,6 +16,10 @@ One product, three spaces:
 - **Rehearsal (VR)** — jam with friends like Guitar Hero; orchestrate and delegate who plays what
 - **Venue (VR/AR)** — perform live
 
+## Tool and world
+
+A game needs progression; a creative tool needs immediate access. Rather than merge them, keep them separate: the **tool** is fully unlocked (explore, capture, export, rehearse, perform, immediately), and the **world** adds progression by getting richer, never by gating features. The world feeds the tool; the tool never requires the world.
+
 ## Docs
 
 - [ideation.md](ideation.md) — the vision, the MMO DAW umbrella, and mechanics worth prototyping

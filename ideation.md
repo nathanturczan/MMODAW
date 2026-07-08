@@ -14,6 +14,23 @@ The game is not about learning music theory. It's about making music through exp
 
 ---
 
+# Tool vs World (the core separation)
+
+A game needs progression. A creative tool needs immediate access. These are different goals — don't merge them into one interface.
+
+- **Music Tool** — everything unlocked. No XP, no grinding, no gated features. Sit down and explore harmony, capture ideas, export MIDI, rehearse, perform, right away. Like Blender or Ableton.
+- **World** — progression exists, but never by locking features. The world gradually becomes richer: you discover places, characters, instruments, motifs, performances, collaborators. Minecraft never locks your ability to build; it just gives you more materials. Collecting is inspiration, not permission — finding a strange instrument gives you a new way to express ideas, not "congratulations, you may now use reverb."
+
+```text
+Music Tool
+    ↑
+Game World
+```
+
+The world continuously feeds the tool; the tool never requires the world. Spend five minutes, stumble on a progression, hit Export, and leave — or spend all evening rehearsing with friends.
+
+---
+
 # MMO DAW (the umbrella)
 
 A persistent online world where the other directions become mechanics. One product, three spaces:
@@ -35,7 +52,7 @@ Three parallel collections run through both loops: **Harmony** (what you play), 
 
 ## Client-Side Rendering (the sync answer)
 
-Collaborative DAWs sound like a synchronization nightmare. The trick: **render the music client-side.** Each client follows the shared harmonic state and produces the audio locally, so sync hiccups are absorbed into the rendering — the player just experiences the music. This is *not* jamming over Zoom. (Ensemble Jammer already works this way.)
+Collaborative DAWs sound like a synchronization nightmare. The trick: **render the music client-side.** Players don't exchange audio, they exchange **musical intent** — a tiny message like `Scale: C Lydian · Chord: IVmaj7 · Tempo: 92 · Beat: 41`. Each client turns that into sound locally, so sync hiccups are absorbed into the rendering — the player just experiences the music. Synchronized harmonic state is minuscule next to synchronized audio, so it scales. This is a **multiplayer musical simulation**, closer to how games work than to jamming over Zoom. (Ensemble Jammer already works this way.)
 
 ---
 

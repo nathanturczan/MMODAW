@@ -248,6 +248,39 @@ Harmony is *what* you play, instruments are *how* you play it, performers are *w
 
 ---
 
+## Tool vs World: don't gate the tool
+
+A friend identified a real tension: **a game needs progression, a creative tool needs immediate access.** Those are fundamentally different design goals, and the mistake would be trying to make one thing satisfy both. The fix is to stop treating them as one thing and separate the concepts.
+
+### Music Tool
+
+Everything is unlocked. No XP, no grinding, no artificial progression. You can immediately explore harmony, capture ideas, export MIDI, rehearse, and perform. Like Blender or Ableton. If someone wants to sit down and write a song, they should be able to — immediately. No quests, no tutorials, no collecting 14 harmony crystals. If you want to use a DAW, you don't want to jump through hoops.
+
+### World
+
+Progression exists — not because features are locked, but because the world gradually becomes richer. You discover places, characters, instruments, motifs, performances, collaborators. That's very different from "you can't use a sequencer until Level 10," which would be awful.
+
+Minecraft is the model: it doesn't lock your ability to build, it simply gives you more materials. Your creative capability is always there; your palette expands. That's a much healthier progression model. **Collecting should be inspiration, not permission.** You discover a strange instrument — cool, now you have another way of expressing ideas. Not "congratulations, you may now use reverb."
+
+### The relationship
+
+```text
+Music Tool
+    ↑
+    │
+Game World
+```
+
+The game continuously **feeds** the tool. The tool never **requires** the game. Someone can spend five minutes exploring the world, stumble across a beautiful progression, hit Export to Ableton, and leave. Or they can spend all evening in the world rehearsing with friends. The world generates musical experiences; the tool lets you take them wherever you want. That's a much healthier relationship than trying to merge a DAW and a game into one interface.
+
+### "DAW" is the wrong word
+
+DAWs are about editing recordings. Scale Navigator is about **inhabiting harmonic space** — very different. "Digital MIDI world" is closer, and even that may undersell it. What's really being built is a **multiplayer musical simulation**: players don't exchange audio, they exchange musical intent — harmony, rhythm, structure, performance gestures. Each client turns that into sound locally.
+
+This is also technically smarter. Realtime synchronized audio is brutally difficult; realtime synchronized harmonic state is comparatively tiny. Instead of streaming audio, clients share messages like `Scale: C Lydian · Chord: IVmaj7 · Tempo: 92 · Beat: 41` and render locally. That's already what Ensemble Jammer does, and it scales far better than collaborative audio. It's much closer to how multiplayer games work.
+
+---
+
 ## The endpoint: AR and "improvising reality"
 
 The ideal surface for Scale Navigator is not a screen, but **AR** — hand gestures, like magic, Dr. Strange. What Jaron Lanier calls **"improvising reality."**
